@@ -1,0 +1,4 @@
+#!/usr/bin/env python3
+path = "/Users/kunkundiwaker/GFG/gitday1/b.txt"
+with open(path, "w", encoding="utf-8") as f:
+    f.write("This is for Practice\n")
